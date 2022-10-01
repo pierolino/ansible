@@ -1,0 +1,38 @@
+#- name: My first play
+#  hosts: virtualmachines
+#  tasks:
+#   - name: Ping my hosts
+#     ansible.builtin.ping:
+#   - name: Print message
+#     ansible.builtin.debug:
+#       msg: Hello world
+#   - name: Install apache httpd  (state=present is optional)
+#     ansible.builtin.apt:
+#     name: apache2
+#     state: present
+#d
+
+---
+- hosts: all
+  #  vars_prompt:
+  #
+  #    - name: username
+  #      prompt: What is your username?
+  #      private: no
+  #
+  #    - name: password
+  #      prompt: What is your password?
+  #
+  vars_files:
+    - "./vars/myvars.yml"
+  tasks:
+    - name: Create Folder
+      file: 
+       become: yes
+       become_method: sudo
+       path: /home/jesus/srv/www/
+       owner: "{{ pierousr }}" 
+       group: "{{ pierousr }}" 
+       mode: 0755 
+       state: directory
+       recurse: yes
