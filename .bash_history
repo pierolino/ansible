@@ -324,3 +324,59 @@ ansible-playbook -i inventory.yml -K playbook.yml
 vi playbook.yml 
 ansible-playbook -i inventory.yml -K playbook.yml 
 clear
+tree
+cd projet_vault_creation_dossier_remotely/
+clear
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+ls -l /etc/sudoers.d/
+sudo ls -l /etc/sudoers.d/
+sudo ls -l /etc/wheeler.d/
+
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+ansible --version
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+clear
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
+vi playbook.yml 
+ansible-playbook playbook.yml -i inventory.yml -K
