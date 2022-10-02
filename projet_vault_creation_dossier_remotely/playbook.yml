@@ -44,7 +44,7 @@
     become_method: su
     hosts: nodea
     tasks:  
-     - name: create a folder
+     - name: create a folder my test env
        file:
         path: /home/piero/testing21q
           #owner: piero
