@@ -15,7 +15,7 @@
 
 # Historique ligne de commande (chronologie décroissante) :
 :wq
-|2,0,1664553855,,"wq"
+|2,0,1664706893,,"wq"
 :q
 |2,0,1664551844,,"q"
 :w
@@ -95,30 +95,36 @@
 |3,1,36,0,1,0,1664553853," "
 
 # Marques dans le fichier :
-'0  44  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,48,44,4,1664553855,"~/projet_vault_creation_dossier_remotely/playbook.yml"
-'1  43  22  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,49,43,22,1664553831,"~/projet_vault_creation_dossier_remotely/playbook.yml"
-'2  43  22  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,50,43,22,1664553831,"~/projet_vault_creation_dossier_remotely/playbook.yml"
-'3  44  6  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,51,44,6,1664553727,"~/projet_vault_creation_dossier_remotely/playbook.yml"
-'4  44  6  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,52,44,6,1664553727,"~/projet_vault_creation_dossier_remotely/playbook.yml"
-'5  44  6  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,53,44,6,1664553727,"~/projet_vault_creation_dossier_remotely/playbook.yml"
-'6  44  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,54,44,4,1664552066,"~/projet_vault_creation_dossier_remotely/playbook.yml"
-'7  44  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,55,44,4,1664552066,"~/projet_vault_creation_dossier_remotely/playbook.yml"
-'8  44  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,56,44,4,1664552066,"~/projet_vault_creation_dossier_remotely/playbook.yml"
-'9  44  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,57,44,4,1664552066,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'0  47  39  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,48,47,39,1664706893,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'1  44  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,49,44,4,1664553855,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'2  44  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,50,44,4,1664553855,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'3  43  22  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,51,43,22,1664553831,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'4  43  22  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,52,43,22,1664553831,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'5  43  22  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,53,43,22,1664553831,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'6  43  22  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,54,43,22,1664553831,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'7  44  6  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,55,44,6,1664553727,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'8  44  6  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,56,44,6,1664553727,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+'9  44  6  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,57,44,6,1664553727,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 
 # Liste de sauts (le plus récent en premier) :
+-'  47  39  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,47,39,1664706893,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+-'  44  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,44,4,1664706874,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  44  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,44,4,1664553855,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+-'  43  22  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,43,22,1664553846,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  43  22  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,43,22,1664553846,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  43  22  ~/projet_vault_creation_dossier_remotely/playbook.yml
@@ -138,7 +144,11 @@
 -'  53  8  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,53,8,1664552030,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  53  8  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,53,8,1664552030,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+-'  53  8  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,53,8,1664551844,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+-'  41  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,41,4,1664551783,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  41  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,41,4,1664551783,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  41  4  ~/projet_vault_creation_dossier_remotely/playbook.yml
@@ -162,7 +172,13 @@
 -'  50  5  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,50,5,1664551732,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  50  5  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,50,5,1664551732,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+-'  50  5  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,50,5,1664551700,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+-'  49  35  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,49,35,1664551619,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+-'  46  35  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,46,35,1664551619,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  49  35  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,49,35,1664551619,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  46  35  ~/projet_vault_creation_dossier_remotely/playbook.yml
@@ -208,6 +224,8 @@
 -'  52  16  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,52,16,1664550300,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  52  16  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,52,16,1664550300,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+-'  52  16  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,52,16,1664550233,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  46  16  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,46,16,1664550216,"~/projet_vault_creation_dossier_remotely/playbook.yml"
@@ -219,6 +237,8 @@
 |4,39,52,25,1664546402,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  52  23  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,52,23,1664545748,"~/projet_vault_creation_dossier_remotely/playbook.yml"
+-'  51  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
+|4,39,51,9,1664545721,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  51  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,51,9,1664545721,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  51  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
@@ -297,35 +317,14 @@
 |4,39,43,7,1664545360,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 -'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
 |4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
--'  41  9  ~/projet_vault_creation_dossier_remotely/playbook.yml
-|4,39,41,9,1664545342,"~/projet_vault_creation_dossier_remotely/playbook.yml"
 
 # Historique des marques dans les fichiers (les plus récentes en premier) :
 
 > ~/projet_vault_creation_dossier_remotely/playbook.yml
-	*	1664553854	0
-	"	44	4
-	^	43	23
-	.	44	4
-	+	16	0
+	*	1664706890	0
+	"	47	39
+	^	47	40
+	.	47	39
 	+	53	0
 	+	46	27
 	+	46	0
@@ -425,6 +424,7 @@
 	+	44	0
 	+	43	4
 	+	44	4
+	+	47	39
 
 > /etc/.bashrc
 	*	1664535608	0
