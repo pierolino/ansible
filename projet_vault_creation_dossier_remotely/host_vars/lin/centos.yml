@@ -1,0 +1,4 @@
+---
+#- name: my variables for CENTOS
+centos_client: 
+ path_to_create: /my_project

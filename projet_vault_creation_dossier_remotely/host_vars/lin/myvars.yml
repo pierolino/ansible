@@ -1,0 +1,10 @@
+---
+#information relative a la creation du dossier
+---
+#- name: my variables for CENTOS
+centos_client:
+ path_to_create: /my_project
+
+chemin: /home/piero/toto
+pierousr: root
+pieropwd: soleil
