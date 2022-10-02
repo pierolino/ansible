@@ -43,16 +43,15 @@
     become_user: root
     become_method: su
     hosts: nodea
+    vars_files: 
+      - group_vars/lin/centos.yml
     tasks:  
-     - name: create a folder my main test
+     - name: create a folder
        file:
-        path: /home/piero/testing21q
+        path: "{{ centos_client['path_to_create'] }}"
           #owner: piero
           #group: jesus 
         state: directory
-           
-
-
 
 
 
