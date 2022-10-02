@@ -1,6 +1,6 @@
-#virtualmachines:
-#    hosts:
-#      tutu:
-#        ansible_host:  192.168.3.129
-[nodea]
- 192.168.3.129
+centos:
+  hosts:
+    centosa:
+      ansible_host: 192.168.3.129
+    centosb:
+      ansible_host: 192.168.3.133
