@@ -1,0 +1,16 @@
+---
+ all_machines:
+  children:
+    centosX:
+      hosts:
+       centosa: 
+         ansible_host: 192.168.3.129
+       centosb: 
+         ansible_host: 192.168.3.133
+          #centos:
+          #  hosts:
+          #    centosa:
+          #      ansible_host: 
+          #    centosb:
+          #      ansible_host: 
+
